@@ -1,0 +1,2 @@
+# diplom
+My diplom project
